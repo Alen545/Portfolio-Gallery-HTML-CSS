@@ -34,6 +34,6 @@ A colorful and responsive portfolio gallery built using **HTML** and **CSS**. It
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/portfolio-gallery.git
+git clone https://github.com/Alen545/Portfolio-Gallery-HTML-CSS.git
 ```
 2. Open index.html in your browser.
